@@ -1,4 +1,4 @@
-import missionImg from '../assets/mission.jpeg'
+import missionImg from '../assets/mission.jpg'
 import mission from '../assets/mission.mp4'
 import { MISSION } from '../constants';
 import { motion } from "motion/react"

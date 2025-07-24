@@ -1,6 +1,5 @@
 import video from "../assets/hero.mp4"
-import logo from "../assets/logo.png"
-import hero from "../assets/hero.jpeg"
+import hero from "../assets/hero.jpg"
 import { motion } from "motion/react"
 
 const HeroSection = () => {

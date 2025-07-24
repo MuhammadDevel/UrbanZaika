@@ -1,5 +1,4 @@
 import { useState } from "react";
-import logo from "../assets/logo.png"
 import { LINKS } from "../constants"
 import { FaBars } from "react-icons/fa";
 import { FaTimes } from 'react-icons/fa';

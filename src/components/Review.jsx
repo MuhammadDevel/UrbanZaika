@@ -1,8 +1,8 @@
 import { REVIEW } from "../constants";
 import xaviour from "../assets/xaviour.jpeg"
-import customer1 from "../assets/customer1.jpeg"
-import customer2 from "../assets/customer2.jpeg"
-import customer3 from "../assets/customer3.jpeg"
+import customer1 from "../assets/customer1.jpg"
+import customer2 from "../assets/customer2.jpg"
+import customer3 from "../assets/customer3.jpg"
 import { motion } from "motion/react"
 
 const containerVariants = {
