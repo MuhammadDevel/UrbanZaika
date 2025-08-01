@@ -23,12 +23,13 @@ const HeroSection = () => {
           initial={{ opacity: 0, y: 50 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6 }}
-          className="relative inline-block"
+          className="relative w-full overflow-x-hidden px-4"
         >
-          <h1 className="text-white text-[4rem] sm:text-[4rem] md:text-[6rem] lg:text-[8rem] xl:text-[10rem] font-extrabold tracking-wide relative z-20 leading-tight">
+          <h1 className="text-white text-[3rem] sm:text-[3.5rem] md:text-[5rem] lg:text-[7rem] xl:text-[9rem] font-extrabold tracking-tight leading-tight break-words max-w-full z-20">
             UrbanZaika
           </h1>
         </motion.div>
+
 
         <p className="p-4 text-xl tracking-tighter text-white">Paris</p>
       </div>

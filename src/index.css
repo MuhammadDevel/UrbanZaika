@@ -10,3 +10,6 @@
   /* font-weight: <weight>; */
   /* font-style: normal; */
 }
+.debug {
+  outline: 2px red solid !important;
+}
